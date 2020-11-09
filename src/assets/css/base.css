@@ -1,0 +1,13 @@
+@import "reset.css";
+body{
+  background-color: #EEEEEE;
+  font-family: "Microsoft YaHei";
+}
+a{
+  text-decoration: none;
+  color: #B8C0CA;
+}
+a:hover{
+  text-decoration: none;
+  color: #fff;
+}
